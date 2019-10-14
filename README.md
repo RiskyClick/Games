@@ -1,2 +1,2 @@
-# Games
-A repository filled with games i have created
+# GameMakingPractice
+Practice With Creating A Game
